@@ -59,6 +59,9 @@
   html {
     font-size: 50%;
   }
+  .header {
+    padding: 0 0.8rem;
+  }
 
   .grid--footer {
     grid-template-columns: repeat(6, 1fr);
